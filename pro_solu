@@ -1,0 +1,6 @@
+1，bash:./hello.py权限不够的问题
+   ll查看没有x属性，使用chmod a+x hello.py 解决该问题
+2,ord()函数获取字符的整数表示，chr函数把编码转变为对应的字符
+3,list.append(),添加到末尾，list.insert(i,xxx)添加到指定位置
+  list.pop(),删除末尾，list.pop(i),删除第i个位置的元素
+4，list和tuple的区别在于，list 用[]来赋值，而tuple用（）来赋值
